@@ -16,5 +16,10 @@ namespace WindowsFormsGITLearn
         {
             InitializeComponent();
         }
+        
+        void helpMe()
+        {
+            string s = "rrr";
+        }
     }
 }
